@@ -1,7 +1,7 @@
 id,name,category,goal,deadline,totalRaised,description
 10000001,STEM Kits for Rural Schools,Education,50000,2025-12-31,0,Provide STEM learning kits for underprivileged schools.
 10000002,Community Health Van,Health,120000,2025-11-15,200,Mobile health check-ups for remote areas.
-10000003,Open-Source Thai NLP,Tech,80000,2025-10-30,2500,Build datasets and tools for Thai NLP.
+10000003,Open-Source Thai NLP,Tech,80000,2025-10-30,3650,Build datasets and tools for Thai NLP.
 10000004,School Library Upgrade,Education,60000,2025-12-15,0,Renovate and restock a rural school library.
 10000005,Clean Water Filters,Health,70000,2025-11-05,0,Install water filters in 10 villages.
 10000006,Robotics Club Expansion,Education,90000,2025-12-25,0,Support robotics workshops.
