@@ -1,0 +1,25 @@
+id,projectId,name,minAmount,quota
+rt1,10000001,Thank You Email,200,100
+rt2,10000001,Sticker Pack,500,50
+rt3,10000002,Shout-out,300,80
+rt4,10000002,Donor Badge,800,30
+rt5,10000003,Contributor List,250,58
+rt6,10000003,Early Access,600,25
+rt7,10000004,Bookmark Set,150,100
+rt8,10000004,Name on Wall,700,10
+rt9,10000005,Thank You Card,200,100
+rt10,10000005,Project Tour,1000,5
+rt11,10000006,Workshop Pass,500,40
+rt12,10000006,VIP Seat,1200,10
+rt13,10000007,Prototype Demo,1000,20
+rt14,10000007,Advisor Credit,3000,5
+rt15,10000008,Archive Access,300,50
+rt16,10000008,Patron Credit,900,10
+rt17,10000009,Solar Supporter,400,80
+rt18,10000009,Street Plaque,1200,14
+rt19,10000010,Telemed Backer,350,70
+rt20,10000010,Clinic Sponsor,1000,12
+rt21,10000011,Field Tester,500,39
+rt22,10000011,Founding Supporter,1500,10
+rt23,10000012,Playground Friend,300,76
+rt24,10000012,Founders Board,2000,5
