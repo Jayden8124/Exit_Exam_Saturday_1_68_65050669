@@ -6,11 +6,11 @@ import { useEffect, useMemo, useState } from "react";
 type Pledge = {
   id: string;
   userId: string;
-  username?: string; // ✅ ชื่อผู้ใช้จาก API
+  username?: string;
   projectId: string;
   amount: number;
   rewardTierId?: string;
-  rewardTierName?: string; // ✅ ชื่อ Reward Tier จาก API
+  rewardTierName?: string;
   time: string;
   status: "SUCCESS" | "REJECTED";
   rejectReason?: string;
@@ -73,7 +73,7 @@ export default function StatsPage() {
 
         {successList.length === 0 ? (
           <div className="muted" style={{ marginTop: 8 }}>
-            ไม่พบรายการที่สำเร็จ
+            Not Found
           </div>
         ) : (
           <div style={{ overflowX: "auto", marginTop: 12 }}>
@@ -120,7 +120,7 @@ export default function StatsPage() {
 
         {rejectedList.length === 0 ? (
           <div className="muted" style={{ marginTop: 8 }}>
-            ไม่พบรายการที่ถูกยกเลิก
+            Not Found
           </div>
         ) : (
           <div style={{ overflowX: "auto", marginTop: 12 }}>
